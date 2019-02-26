@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 20 20:27:20 2019
+Milo Freese
+2/20/19
+Python 1 - DAT-119 - Spring 2019
+Homework 3
 
-@author: Milo
+Write a program that asks the user for three grades, averages them, and outputs the average grade. 
 """
 
 # Declare variables and obtain user input
